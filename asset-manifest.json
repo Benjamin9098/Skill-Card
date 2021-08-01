@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Skill-Card/static/css/main.26666cd4.chunk.css",
+    "main.js": "/Skill-Card/static/js/main.35fbe3d7.chunk.js",
+    "main.js.map": "/Skill-Card/static/js/main.35fbe3d7.chunk.js.map",
+    "runtime-main.js": "/Skill-Card/static/js/runtime-main.e17ea2eb.js",
+    "runtime-main.js.map": "/Skill-Card/static/js/runtime-main.e17ea2eb.js.map",
+    "static/js/2.b920727a.chunk.js": "/Skill-Card/static/js/2.b920727a.chunk.js",
+    "static/js/2.b920727a.chunk.js.map": "/Skill-Card/static/js/2.b920727a.chunk.js.map",
+    "index.html": "/Skill-Card/index.html",
+    "static/css/main.26666cd4.chunk.css.map": "/Skill-Card/static/css/main.26666cd4.chunk.css.map",
+    "static/js/2.b920727a.chunk.js.LICENSE.txt": "/Skill-Card/static/js/2.b920727a.chunk.js.LICENSE.txt",
+    "static/media/profile.e3660bf3.jpg": "/Skill-Card/static/media/profile.e3660bf3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e17ea2eb.js",
+    "static/js/2.b920727a.chunk.js",
+    "static/css/main.26666cd4.chunk.css",
+    "static/js/main.35fbe3d7.chunk.js"
+  ]
+}
